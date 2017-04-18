@@ -1,0 +1,1 @@
+﻿Base classes for mananging data related requests/logic and application session wrapper.
