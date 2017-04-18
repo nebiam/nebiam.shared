@@ -1,0 +1,10 @@
+F:\Nebiam.Shared\bin\Nebiam.Shared.Data.dll
+F:\Nebiam.Shared\bin\Nebiam.Shared.Data.pdb
+F:\Nebiam.Shared\obj\Release\Nebiam.Shared.csprojResolveAssemblyReference.cache
+F:\Nebiam.Shared\obj\Release\Nebiam.Shared.Data.dll
+F:\Nebiam.Shared\obj\Release\Nebiam.Shared.Data.pdb
+D:\Nebiam.Shared\bin\Nebiam.Shared.Data.dll
+D:\Nebiam.Shared\bin\Nebiam.Shared.Data.pdb
+D:\Nebiam.Shared\obj\Release\Nebiam.Shared.csprojResolveAssemblyReference.cache
+D:\Nebiam.Shared\obj\Release\Nebiam.Shared.Data.dll
+D:\Nebiam.Shared\obj\Release\Nebiam.Shared.Data.pdb
